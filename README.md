@@ -6,24 +6,40 @@ The main objective of this project titled “Plant Monitor and Watering System�
 
 ##Hardware Requirement
 
-Processor (intel i3 and above)​
-RAM (min. 4 GB)​
-Storage (min. 250 GB)​
-Smart Phone​
-Soil Moisture Sensor​
-DHT11 Sensor​
-NodeMCU ESP8266​
-Bread Board​
-Relay Module 5V​
-Jumper Cables​
-Mini-Water Pump​
-Battery 9V​
-Micro USB cable​
+Processor (intel i3 and above)​,
+
+RAM (min. 4 GB)​,
+
+Storage (min. 250 GB)​,
+
+Smart Phone​,
+
+Soil Moisture Sensor​,
+
+DHT11 Sensor​,
+
+NodeMCU ESP8266​,
+
+Bread Board​,
+
+Relay Module 5V​,
+
+Jumper Cables​,
+
+Mini-Water Pump​,
+
+Battery 9V​,
+
+Micro USB cable​,
+
 Power Bank​
 
 ##Software Requirement
 
-Arduino IDE​
-Blynk mobile Application​
-Any Browser (chrome, Edge)​
+Arduino IDE​,
+
+Blynk mobile Application​,
+
+Any Browser (chrome, Edge),
+​
 Any OS (Windows, Linux)​
